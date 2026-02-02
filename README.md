@@ -1,16 +1,52 @@
-## Hi there 👋
+# Doru Cristian
 
-<!--
-**dorucatalin96-max/dorucatalin96-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Machine Learning Engineer focused on building production-ready data pipelines and APIs.
 
-Here are some ideas to get you started:
+📍 Zaragoza, Spain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 What I do
+- Design and build **data pipelines** using AWS (Lambda, S3, RDS)
+- Develop **ETL processes** and optimized PostgreSQL schemas
+- Train and evaluate **machine learning models**
+- Expose ML and analytics via **FastAPI**
+- Write clean, maintainable, production-oriented Python code
+
+---
+
+## 🚀 Current focus
+- End-to-end project using RAWG video game data  
+  *(ingestion → ETL → PostgreSQL → ML → API)*
+- Predictive models and analytics endpoints
+- Scalable backend architecture on AWS
+
+---
+
+## 🧰 Tech Stack
+**Languages**  
+Python · SQL  
+
+**Backend & Data**  
+FastAPI · PostgreSQL · Pandas · NumPy  
+
+**Machine Learning**  
+Scikit-learn · XGBoost (baselines & evaluation)
+
+**Cloud & DevOps**  
+AWS Lambda · S3 · RDS · Docker · Git  
+
+---
+
+## 📂 Featured Projects
+- **GamePulse – RAWG ML API**  
+  End-to-end data & ML pipeline with AWS, PostgreSQL and FastAPI  
+  *(repository in progress)*
+
+- **AWS Lambda ETL Templates**  
+  Reusable patterns for S3-triggered ETL and database upserts
+
+---
+
+## 📬 Contact
+- GitHub: https://github.com/dorucatalin96-max

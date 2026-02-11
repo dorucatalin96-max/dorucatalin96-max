@@ -1,52 +1,60 @@
-# Doru Cristian
-
-Data & Machine Learning Engineer focused on building production-ready data pipelines and APIs.
-
-📍 Zaragoza, Spain
+🤖 Machine Learning & Data - Doru Cristian -
 
 ---
+Ingeniero de Datos & Machine Learning, especializado en la construcción de pipelines de datos y APIs listas para producción.
 
-## 👨‍💻 What I do
-- Design and build **data pipelines** using AWS (Lambda, S3, RDS)
-- Develop **ETL processes** and optimized PostgreSQL schemas
-- Train and evaluate **machine learning models**
-- Expose ML and analytics via **FastAPI**
-- Write clean, maintainable, production-oriented Python code
+📍 Zaragoza, España
 
 ---
+👨‍💻 Qué hago
 
-## 🚀 Current focus
-- End-to-end project using RAWG video game data  
-  *(ingestion → ETL → PostgreSQL → ML → API)*
-- Predictive models and analytics endpoints
-- Scalable backend architecture on AWS
+Diseño y desarrollo pipelines de datos escalables usando AWS (Lambda, S3, RDS)
 
----
+Implemento procesos ETL y esquemas optimizados en PostgreSQL
 
-## 🧰 Tech Stack
-**Languages**  
-Python · SQL  
+Entreno y evalúo modelos de Machine Learning
 
-**Backend & Data**  
-FastAPI · PostgreSQL · Pandas · NumPy  
+Expongo modelos y analíticas mediante APIs REST con FastAPI
 
-**Machine Learning**  
-Scikit-learn · XGBoost (baselines & evaluation)
-
-**Cloud & DevOps**  
-AWS Lambda · S3 · RDS · Docker · Git  
+Escribo código Python limpio, mantenible y orientado a producción
 
 ---
+🚀 En qué estoy enfocado actualmente
 
-## 📂 Featured Projects
-- **GamePulse – RAWG ML API**  
-  End-to-end data & ML pipeline with AWS, PostgreSQL and FastAPI  
-  *(repository in progress)*
+Proyecto end-to-end con datos de videojuegos de RAWG
+(ingestión → ETL → PostgreSQL → ML → API)
 
-- **AWS Lambda ETL Templates**  
-  Reusable patterns for S3-triggered ETL and database upserts
+Desarrollo de modelos predictivos y endpoints analíticos
+
+Arquitecturas backend escalables en AWS
+
+---
+🧰 Stack Tecnológico
+
+Lenguajes
+Python · SQL
+
+Backend & Datos
+FastAPI · PostgreSQL · Pandas · NumPy
+
+Machine Learning
+Scikit-learn · XGBoost (baselines y evaluación de modelos)
+
+Cloud & DevOps
+AWS Lambda · S3 · RDS · Docker · Git
+
+---
+📂 Proyectos Destacados
+
+GamePulse – RAWG ML API
+Pipeline completo de datos y Machine Learning con AWS, PostgreSQL y FastAPI
+
+Plantillas ETL con AWS Lambda
+Patrones reutilizables para ETL activado por S3 y upserts en bases de datos
+
 
 ---
 
 ## 📬 Contact
 - GitHub: https://github.com/dorucatalin96-max
+- LinkedIn : linkedin.com/in/doru-catalin-cristian-b79b1315b

@@ -57,4 +57,4 @@ Patrones reutilizables para ETL activado por S3 y upserts en bases de datos
 
 ## 📬 Contact
 - 💼 GitHub: https://github.com/dorucatalin96-max
-- 👨‍💻🤖 LinkedIn: linkedin.com/in/doru-catalin-cristian-b79b1315b
+- 👨‍💻🤖 LinkedIn: www.linkedin.com/in/doru-cristian-ai
